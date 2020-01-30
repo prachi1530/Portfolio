@@ -23,3 +23,9 @@ h4{margin:0}#portfolio .portfolio-item .portfolio-caption{max-width:400px;margin
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
+
+.custom {
+  font-size: 18px;
+  color: #31b0d5;
+  font-weight: bold;
+}
